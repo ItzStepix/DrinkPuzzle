@@ -18,6 +18,10 @@ behind DriP.
 
 Open the **map** from the pause menu to teleport to any island you have already opened.
 
+**Play** keeps up to three save worlds. **Online** lets friends on the same Wi-Fi play together
+for free: one creates a world, the others pick it from the list of worlds on the same Wi-Fi, and
+everything anyone finds counts for everybody. Every beaten Toxi-drink drops a DriP Coin.
+
 ## Download (Android)
 
 Grab **DrinkPuzzle.apk** from the [latest release](../../releases/latest), open it on your phone
