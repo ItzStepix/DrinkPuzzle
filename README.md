@@ -33,6 +33,7 @@ and allow installing apps from this source when asked.
 | Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
 | Backpack | E / Tab | backpack button |
+| Interact (e.g. the Pet Shop) | E | hand button |
 | Back to the world's start | R | |
 | Pause | Esc / P | pause button |
 
