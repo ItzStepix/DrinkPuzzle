@@ -21,13 +21,14 @@ and allow installing apps from this source when asked.
 
 | | Keyboard / mouse | Touch |
 |---|---|---|
-| Move | WASD / arrows | left stick |
-| Camera | mouse / trackpad drag | drag on the right |
+| Move | WASD | left stick |
+| Camera | mouse / trackpad drag, arrows | drag on the right |
 | Jump | Space | jump button |
-| Squirt from the straw | left click / F | squirt button |
+| Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
-| Backpack | E | backpack button |
-| Pause | Esc | pause button |
+| Backpack | E / Tab | backpack button |
+| Back to the world's start | R | |
+| Pause | Esc / P | pause button |
 
 Skins: **Classic**, **Roller** (roll like a barrel and smash crates), **Hopper** (triple jump),
 **Floaty** (hold jump to float) and **Ghost** (turn invisible).
