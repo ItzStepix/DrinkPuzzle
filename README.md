@@ -12,6 +12,12 @@ earn a glass shard, beat the three Toxic bosses and build the Giant Glass to mix
 Look out for the **Toxi-drinks**: they steal your backpack and can squash you. Jump on their
 heads to beat them.
 
+Every world also hides **100 DriP Coins**. Spend them in the Drink Lab's **Pet Shop** on slime
+pets – the rarer the colour, the higher the price (125 to 750 coins). Up to three pets hop along
+behind DriP.
+
+Open the **map** from the pause menu to teleport to any island you have already opened.
+
 ## Download (Android)
 
 Grab **DrinkPuzzle.apk** from the [latest release](../../releases/latest), open it on your phone
