@@ -4,8 +4,9 @@
 
 A colourful 3D adventure starring **DriP**, a little soda can with a straw.
 
-Explore ten island worlds, find all **100 hidden cans**, carry them home in your backpack
-(three at a time) and pour them into the wooden barrel in the **Drink Lab**. Finish each world to
+Explore five big island worlds – each one made for one of DriP's skins – find all
+**100 hidden cans**, carry them home in your backpack (three at a time) and pour them into the
+wooden barrel in the **Drink Lab**. Finish each world to
 earn a glass shard, beat the three Toxic bosses and build the Giant Glass to mix the
 **DriP Boost**.
 
