@@ -10,10 +10,15 @@ wooden barrel in the **Drink Lab**. Finish each world to
 earn a glass shard, beat the three Toxic bosses and build the Giant Glass to mix the
 **DriP Boost**.
 
+Every world also has a **course**: a run across floating islands from a start to a golden
+trophy, made for the world's skin – triple-jump up tree trunks, roll through a canyon of steel
+crates, float across the sea, or slip invisible past ghost walls and searchlights. Flags along the
+way are checkpoints, and three of the world's cans are hidden on it.
+
 Look out for the **Toxi-drinks**: they steal your backpack and can squash you. Jump on their
 heads to beat them.
 
-Every world also hides **100 DriP Coins**. Spend them in the Drink Lab's **Pet Shop** on slime
+Every world also hides **200 DriP Coins**. Spend them in the Drink Lab's **Pet Shop** on slime
 pets – the rarer the colour, the higher the price (125 to 750 coins). Up to three pets hop along
 behind DriP.
 
