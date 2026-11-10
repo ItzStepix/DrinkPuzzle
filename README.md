@@ -8,7 +8,8 @@ Run, jump and roll through five worlds – each one long level across floating i
 sea, from the start to a golden goal, made for one of DriP's skins: triple-jump up tree trunks in
 Sky Jungle, roll through a canyon of steel crates in Soda Desert, float across the sea and ride
 the wind on the Frozen Coast, or slip invisible past ghost walls and searchlights in Toxic Night.
-Blinking platforms, pistons, conveyor belts and spinning bars are in the way, and every world is
+Blinking platforms, pistons, conveyor belts, spinning bars and Toxi-drinks are in the way, and
+it gets harder the further you go – each world a bit harder than the one before. Every world is
 open from the start.
 
 **CheckPrinks** – big glasses that fill up with drink as you pass – are the checkpoints. The
