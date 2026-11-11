@@ -16,21 +16,22 @@ open from the start.
 **DriP Coins** you pick up are only kept once you reach the next CheckPrink; fall into the sea and
 they go back where they were. Cans and glass shards are never lost.
 
-Each world hides **20 cans** off the main path – under the edges, behind you, high up, in crates
-and bushes, far below. Find all **100**, carry them home and pour them into the wooden barrel in
+Each world hides its cans off the main path – under the edges, behind you, high up, in crates and
+bushes, far below – and it never tells you how many there are. Find all **100**, carry them home and pour them into the wooden barrel in
 the **Drink Lab**. Reach the goal of each world to earn a glass shard, beat the three Toxic bosses
 and build the Giant Glass to mix the **DriP Boost**.
 
 Look out for the **Toxi-drinks**: they shove you around and can squash you. Jump on their heads
 to beat them.
 
-**DriP Coins** are money: lines of them show the way, a big one worth five floats over every
-hidden can, beaten Toxi-drinks burst into coins and crates and bushes give a few – and they are all
-back every time you play a level again. Spend them in the Drink Lab's **Pet Shop** on slime pets –
+**DriP Coins** are money, and not on every step: a few show the way, big ones worth five wait at the
+risky spots, beaten Toxi-drinks burst into coins and crates and bushes give a few – and they are
+all back every time you play a level again. Spend them in the Drink Lab's **Pet Shop** on slime pets –
 the rarer the colour, the higher the price (125 to 750 coins). Up to three pets hop along behind
 DriP.
 
-Open the **map** from the pause menu to teleport to any world.
+Open the **world map** from the pause menu – a chart of floating islands – to teleport to any
+world.
 
 **Play** keeps up to three save worlds. **Online** lets friends on the same Wi-Fi play together
 for free: one creates a world, the others pick it from the list of worlds on the same Wi-Fi, and
