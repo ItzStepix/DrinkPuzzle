@@ -30,12 +30,21 @@ all back every time you play a level again. Spend them in the Drink Lab's **Pet 
 the rarer the colour, the higher the price (125 to 750 coins). Up to three pets hop along behind
 DriP.
 
+Behind the Drink Lab, across a moat, stands the shut gate of **Sodaville**, the village of all
+drinks. Mix the DriP Boost and its drawbridge comes down at last: fifty drinks live there, each
+with a name, something to say and something to do – bottle-cap football, a band with dancers,
+swings and a carousel, slimes on leads, cooking, fishing, gardening… Their houses are giant cans
+and bottles lying on their side, and Fizz Street has a juice bar, bubble tea, ice cubes, a café
+and a hat shop. Its **Soda Machine** turns 50 coins into a little can with one of 15 hats inside
+(a hat DriP already has gives 20 coins back); the **Wardrobe** next to it changes hats. From the
+broken pier at the end of the village you can see the Toxi Castle far out at sea…
+
 Open the **world map** from the pause menu – a chart of floating islands – to teleport to any
 world.
 
 **Play** keeps up to three save worlds. **Online** lets friends on the same Wi-Fi play together
 for free: one creates a world, the others pick it from the list of worlds on the same Wi-Fi, and
-every can, shard and finished world counts for everybody (coins go into each player's own wallet).
+every can, shard and finished world counts for everybody (coins and hats are each player's own).
 
 ## Download (Android)
 
@@ -52,7 +61,7 @@ and allow installing apps from this source when asked.
 | Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
 | Backpack | E / Tab | backpack button |
-| Interact (e.g. the Pet Shop) | E | hand button |
+| Interact (Pet Shop, Soda Machine, Wardrobe) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
 
