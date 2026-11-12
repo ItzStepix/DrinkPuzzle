@@ -14,9 +14,10 @@ open from the start.
 
 **CheckPrinks** – big glasses that fill up with drink as you pass – are the checkpoints. The
 **DriP Coins** you pick up are only kept once you reach a *new* CheckPrink (going back to one you
-already filled keeps nothing); fall into the sea and they go back where they were. Falling closes
-the screen in on a DriP-shaped window and opens it again at the last CheckPrink. Cans and glass
-shards are never lost.
+already filled keeps nothing); fall into the sea and they go back where they were. Falling turns **time back** to the last
+CheckPrink, as if it never happened: the screen closes in on a blinking DriP-shaped shadow, and
+the crates you broke, the bushes you shook, the Toxi-drinks and Fizz Bombs you beat and the
+crumbling platforms are all back. Cans and glass shards are never lost.
 
 Each world hides its cans off the main path – under the edges, behind you, high up, in crates and
 bushes, far below – and it never tells you how many there are. Find all **100**, carry them home and pour them into the wooden barrel in
@@ -41,7 +42,9 @@ swings and a carousel, slimes on leads, cooking, fishing, gardening… Their hou
 and bottles lying on their side – stand all over the place, and walking through a door takes you
 inside, where it's much bigger than it looks and someone of the family is at home. Fizz Street has
 a juice bar, bubble tea, ice cubes, a café and a hat shop. From the broken pier at the end of the
-village you can see the Toxi Castle far out at sea…
+village you can see the Toxi Castle far out at sea – and once you are ready, a portal at the end
+of the pier takes you there: across the **Toxi Swamp**, through the castle gate, to the **Toxi
+Emperor**, the boss of the whole Toxi gang. Beat him and see what happens to the Toxi-drinks…
 
 Open the **world map** from the pause menu – a chart of floating islands – to teleport to any
 world.
