@@ -48,6 +48,10 @@ village you can see the Toxi Castle far out at sea – and once you are ready, a
 of the pier takes you there: across the **Toxi Swamp**, through the castle gate, to the **Toxi
 Emperor**, the boss of the whole Toxi gang. Beat him and see what happens to the Toxi-drinks…
 
+…and that isn't the end. Sodaville makes DriP its **mayor** and builds him a castle of his own –
+until, two days later, something goes very wrong. Then it's up to DriP, a brand-new **fire
+station** and a fire hose – and a trail of sooty footprints leads to a mystery. To be continued!
+
 Pausing stops the game completely. Open the **world map** from the pause menu – a chart of
 floating islands – to teleport to any world. Two islands at the end of the route are hidden in
 clouds until you have found them…
