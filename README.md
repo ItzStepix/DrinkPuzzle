@@ -13,8 +13,10 @@ it gets harder the further you go – each world a bit harder than the one befor
 open from the start.
 
 **CheckPrinks** – big glasses that fill up with drink as you pass – are the checkpoints. The
-**DriP Coins** you pick up are only kept once you reach a *new* CheckPrink (going back to one you
-already filled keeps nothing); fall into the sea and they go back where they were. Falling turns **time back** to the last
+**DriP Coins** you pick up go straight into your wallet (the counter at the top of the screen), but
+until you reach a *new* CheckPrink they aren't safe: fall into the sea and the coins since the last
+one are taken back out and go back where they were (going back to a CheckPrink you already filled
+keeps nothing). Falling turns **time back** to the last
 CheckPrink, as if it never happened: the screen closes in on a blinking DriP-shaped shadow, and
 the crates you broke, the bushes you shook, the Toxi-drinks and Fizz Bombs you beat and the
 crumbling platforms are all back. Cans and glass shards are never lost.
@@ -46,8 +48,9 @@ village you can see the Toxi Castle far out at sea – and once you are ready, a
 of the pier takes you there: across the **Toxi Swamp**, through the castle gate, to the **Toxi
 Emperor**, the boss of the whole Toxi gang. Beat him and see what happens to the Toxi-drinks…
 
-Open the **world map** from the pause menu – a chart of floating islands – to teleport to any
-world.
+Pausing stops the game completely. Open the **world map** from the pause menu – a chart of
+floating islands – to teleport to any world. Two islands at the end of the route are hidden in
+clouds until you have found them…
 
 **Play** keeps up to three save worlds. **Online** lets friends on the same Wi-Fi play together
 for free: one creates a world, the others pick it from the list of worlds on the same Wi-Fi, and
