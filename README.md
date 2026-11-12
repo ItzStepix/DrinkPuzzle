@@ -13,8 +13,10 @@ it gets harder the further you go – each world a bit harder than the one befor
 open from the start.
 
 **CheckPrinks** – big glasses that fill up with drink as you pass – are the checkpoints. The
-**DriP Coins** you pick up are only kept once you reach the next CheckPrink; fall into the sea and
-they go back where they were. Cans and glass shards are never lost.
+**DriP Coins** you pick up are only kept once you reach a *new* CheckPrink (going back to one you
+already filled keeps nothing); fall into the sea and they go back where they were. Falling closes
+the screen in on a DriP-shaped window and opens it again at the last CheckPrink. Cans and glass
+shards are never lost.
 
 Each world hides its cans off the main path – under the edges, behind you, high up, in crates and
 bushes, far below – and it never tells you how many there are. Find all **100**, carry them home and pour them into the wooden barrel in
@@ -22,7 +24,9 @@ the **Drink Lab**. Reach the goal of each world to earn a glass shard, beat the 
 and build the Giant Glass to mix the **DriP Boost**.
 
 Look out for the **Toxi-drinks**: they shove you around and can squash you. Jump on their heads
-to beat them.
+or squirt them twice to beat them. **Fizz Bombs** – fat red balls with a fuse – light up when you
+come close and chase you until they go BOOM: squirt them or jump on them first and they just pop
+into coins (and jumping on one sends you flying).
 
 **DriP Coins** are money, and not on every step: a few show the way, big ones worth five wait at the
 risky spots, beaten Toxi-drinks burst into coins and crates and bushes give a few – and they are
@@ -33,18 +37,19 @@ DriP.
 Behind the Drink Lab, across a moat, stands the shut gate of **Sodaville**, the village of all
 drinks. Mix the DriP Boost and its drawbridge comes down at last: fifty drinks live there, each
 with a name, something to say and something to do – bottle-cap football, a band with dancers,
-swings and a carousel, slimes on leads, cooking, fishing, gardening… Their houses are giant cans
-and bottles lying on their side, and Fizz Street has a juice bar, bubble tea, ice cubes, a café
-and a hat shop. Its **Soda Machine** turns 50 coins into a little can with one of 15 hats inside
-(a hat DriP already has gives 20 coins back); the **Wardrobe** next to it changes hats. From the
-broken pier at the end of the village you can see the Toxi Castle far out at sea…
+swings and a carousel, slimes on leads, cooking, fishing, gardening… Their houses – giant cans
+and bottles lying on their side – stand all over the place, and walking through a door takes you
+inside, where it's much bigger than it looks and someone of the family is at home. Fizz Street has
+a juice bar, bubble tea, ice cubes, a café and a hat shop. From the broken pier at the end of the
+village you can see the Toxi Castle far out at sea…
 
 Open the **world map** from the pause menu – a chart of floating islands – to teleport to any
 world.
 
 **Play** keeps up to three save worlds. **Online** lets friends on the same Wi-Fi play together
 for free: one creates a world, the others pick it from the list of worlds on the same Wi-Fi, and
-every can, shard and finished world counts for everybody (coins and hats are each player's own).
+every can, shard, finished world and beaten boss counts for everybody (coins go into each player's own
+wallet).
 
 ## Download (Android)
 
@@ -61,7 +66,7 @@ and allow installing apps from this source when asked.
 | Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
 | Backpack | E / Tab | backpack button |
-| Interact (Pet Shop, Soda Machine, Wardrobe) | E | hand button |
+| Interact (e.g. the Pet Shop) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
 
