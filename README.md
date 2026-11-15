@@ -62,9 +62,11 @@ everybody his black-and-white photos of home: **Clinkton**, a town of inventors 
 So he builds one – learn to **drive and fly it**, fly east to Clinkton and find a car of your own
 in a garage… until the **S.S. Gigantic** comes. The ending? Play it and see.
 
-**Chapter 4** has just begun: the giant ship is still stuck in the ruins of Clinkton, and somebody
-on board is snoring… Lost between story parts? The mission at the top always says what's next –
-often simply *go back to the Drink Lab*.
+**Chapter 4**: the giant ship is still stuck in the ruins of Clinkton, and somebody on board is
+snoring… then a tour ship, ten lost treasures and a museum. **Chapter 5**: one big town, a very
+small (and very bad) new mayor, chips, a factory and an airport. The pause menu lists the chapters
+you've reached – the rest are still blacked out. Lost between story parts? The mission at the top
+always says what's next – often simply *go back to the Drink Lab*.
 
 Pausing stops the game completely. Open the **world map** from the pause menu – a chart of
 floating islands – to teleport to any world. Two islands at the end of the route are hidden in
