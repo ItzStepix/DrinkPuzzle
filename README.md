@@ -50,7 +50,10 @@ Emperor**, the boss of the whole Toxi gang. Beat him and see what happens to the
 
 …and that isn't the end. Sodaville makes DriP its **mayor** and builds him a castle of his own –
 until, two days later, something goes very wrong. Then it's up to DriP, a brand-new **fire
-station** and a fire hose – and a trail of sooty footprints leads to a mystery. To be continued!
+station** and a fire hose – and a trail of sooty footprints leads out to sea, to **Fizz Volcano**,
+home of the Fizz Bombs. Take the fire boat, cross islands full of Fizz Bombs over a sea of lava,
+and face **Big Bang**, the biggest Fizz Bomb of them all, in his crater. Find out why he did it –
+and how Sodaville throws a party.
 
 Pausing stops the game completely. Open the **world map** from the pause menu – a chart of
 floating islands – to teleport to any world. Two islands at the end of the route are hidden in
