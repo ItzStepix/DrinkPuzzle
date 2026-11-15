@@ -55,6 +55,13 @@ home of the Fizz Bombs. Take the fire boat, cross islands full of Fizz Bombs ove
 and face **Big Bang**, the biggest Fizz Bomb of them all, in his crater. Find out why he did it –
 and how Sodaville throws a party.
 
+…and still it goes on. Mayor DriP needs a **holiday**: sail the little boat out to a tiny sand
+island – where a message in a bottle called **Corky** has been stuck for years. A few years later
+Corky wins the **elections**, builds a giant wooden bridge out to his old island, and shows
+everybody his black-and-white photos of home: **Clinkton**, a town of inventors with flying cars.
+So he builds one – learn to **drive and fly it**, fly east to Clinkton and find a car of your own
+in a garage… until the **S.S. Gigantic** comes. The ending? Play it and see.
+
 Pausing stops the game completely. Open the **world map** from the pause menu – a chart of
 floating islands – to teleport to any world. Two islands at the end of the route are hidden in
 clouds until you have found them…
@@ -81,6 +88,8 @@ and allow installing apps from this source when asked.
 | Interact (e.g. the Pet Shop) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
+| Emote wheel (Floss, Robot, Hop) | . (then 1, 2, 3) | smiley button |
+| Flying car: up / down | Space / F | jump / squirt button |
 
 Skins: **Classic**, **Roller** (roll like a barrel and smash crates), **Hopper** (triple jump),
 **Floaty** (hold jump to float) and **Ghost** (turn invisible).
