@@ -78,7 +78,6 @@ and allow installing apps from this source when asked.
 | Jump | Space | jump button |
 | Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
-| Backpack | E / Tab | backpack button |
 | Interact (e.g. the Pet Shop) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
