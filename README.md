@@ -64,7 +64,9 @@ in a garage… until the **S.S. Gigantic** comes. The ending? Play it and see.
 
 **Chapter 4**: the giant ship is still stuck in the ruins of Clinkton, and somebody on board is
 snoring… then a tour ship, ten lost treasures and a museum. **Chapter 5**: one big town, a very
-small (and very bad) new mayor, chips, a factory and an airport. The pause menu lists the chapters
+small (and very bad) new mayor, chips, a factory and an airport. **Chapter 6**: Grandpa Clink's
+secret workshop, a yellow **submarine**, the **Golden Cork** at the bottom of the sea – and the
+Golden Cork Festival's **flying-car race**: ten rings round the island, three rivals, one cup. The pause menu lists the chapters
 you've reached – the rest are still blacked out. Lost between story parts? The mission at the top
 always says what's next – often simply *go back to the Drink Lab*.
 
@@ -95,7 +97,7 @@ and allow installing apps from this source when asked.
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
 | Emote wheel (Floss, Robot, Hop) | . (then 1, 2, 3) | smiley button |
-| Flying car: up / down | Space / F | jump / squirt button |
+| Flying car / submarine: up / down | Space / F | jump / squirt button |
 
 Skins: **Classic**, **Roller** (roll like a barrel and smash crates), **Hopper** (triple jump),
 **Floaty** (hold jump to float) and **Ghost** (turn invisible).
