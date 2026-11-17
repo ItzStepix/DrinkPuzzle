@@ -44,8 +44,8 @@ swings and a carousel, slimes on leads, cooking, fishing, gardening… Their hou
 and bottles lying on their side – stand all over the place, and walking through a door takes you
 inside, where it's much bigger than it looks and someone of the family is at home. Fizz Street has
 a juice bar, bubble tea, ice cubes, a café and a hat shop. From the broken pier at the end of the
-village you can see the Toxi Castle far out at sea – and once you are ready, a portal at the end
-of the pier takes you there: across the **Toxi Swamp**, through the castle gate, to the **Toxi
+village you can see the Toxi Castle far out at sea – and once you are ready, a portal on the
+west shore takes you there: across the **Toxi Swamp**, through the castle gate, to the **Toxi
 Emperor**, the boss of the whole Toxi gang. Beat him and see what happens to the Toxi-drinks…
 
 …and that isn't the end. Sodaville makes DriP its **mayor** and builds him a castle of his own –
