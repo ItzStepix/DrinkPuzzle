@@ -96,7 +96,7 @@ and allow installing apps from this source when asked.
 | Interact (drive, talk, open things) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
-| Emote wheel (Floss, Robot, Hop) | . (then 1, 2, 3) | smiley button |
+| Dance (the Fizz Pop – press again to stop) | . | smiley button |
 | Flying car / submarine: up / down | Space / F | jump / squirt button |
 
 Skins: **Classic**, **Roller** (roll like a barrel and smash crates), **Hopper** (triple jump),
