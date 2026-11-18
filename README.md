@@ -33,9 +33,7 @@ into coins (and jumping on one sends you flying).
 
 **DriP Coins** are money, and not on every step: a few show the way, big ones worth five wait at the
 risky spots, beaten Toxi-drinks burst into coins and crates and bushes give a few – and they are
-all back every time you play a level again. Spend them in the Drink Lab's **Pet Shop** on slime pets –
-the rarer the colour, the higher the price (125 to 750 coins). Up to three pets hop along behind
-DriP.
+all back every time you play a level again. Collect as many as you can – and find the rare ones.
 
 Behind the Drink Lab, across a moat, stands the shut gate of **Sodaville**, the village of all
 drinks. Mix the DriP Boost and its drawbridge comes down at last: fifty drinks live there, each
@@ -66,7 +64,9 @@ in a garage… until the **S.S. Gigantic** comes. The ending? Play it and see.
 snoring… then a tour ship, ten lost treasures and a museum. **Chapter 5**: one big town, a very
 small (and very bad) new mayor, chips, a factory and an airport. **Chapter 6**: Grandpa Clink's
 secret workshop, a yellow **submarine**, the **Golden Cork** at the bottom of the sea – and the
-Golden Cork Festival's **flying-car race**: ten rings round the island, three rivals, one cup. The pause menu lists the chapters
+Golden Cork Festival's **flying-car race**: ten rings round the island, three rivals, one cup.
+**Chapter 7** is the last: a torn page in Corky's old book, strange footprints… and THE END. (Who tore
+the page? That's for **DrinkPuzzle II**.) The pause menu lists the chapters
 you've reached – the rest are still blacked out. Lost between story parts? The mission at the top
 always says what's next – often simply *go back to the Drink Lab*.
 
@@ -93,7 +93,7 @@ and allow installing apps from this source when asked.
 | Jump | Space | jump button |
 | Squirt from the straw | F / Shift / J | squirt button |
 | Skin ability | Q | ability button |
-| Interact (e.g. the Pet Shop) | E | hand button |
+| Interact (drive, talk, open things) | E | hand button |
 | Back to the last CheckPrink | R | |
 | Pause | Esc / P | pause button |
 | Emote wheel (Floss, Robot, Hop) | . (then 1, 2, 3) | smiley button |
